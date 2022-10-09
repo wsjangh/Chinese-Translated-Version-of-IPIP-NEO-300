@@ -1,0 +1,1 @@
+# Chinese-Translated-Version-of-IPIP-NEO-300
