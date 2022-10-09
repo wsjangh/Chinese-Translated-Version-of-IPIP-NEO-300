@@ -1,4 +1,10 @@
-# Chinese-Translated-Version-of-IPIP-NEO-300
-# 中文翻译版国际人格项目池大五人格多维量表（IPIP-NEO-300）
 
-##翻译原则
+# Chinese-Translated-Version-of-IPIP-NEO-300 中文翻译版国际人格项目池大五人格多维量表
+
+## 0.项目介绍
+Goldberg 等人注意到，在人格测量领域，大量的商业化量表项目对研究带来了不便，研究者无权将商业量表进行灵活运用（如重组、分割、或比较等），同时他们也会面对来自于量表出版商所收取的高昂的费用。为了促进知识和信息的整合，Goldberg 等人提议将一组人格测量项目开源以帮助研究者摆脱受版权保护的人格量表所带来的不便，国际人格项目池（International Personality Item Pool, IPIP）因此诞生。
+
+
+### 英文量表编订原则
+
+
